@@ -1,5 +1,5 @@
 {
-	"spider": "./YSC.jar;md5;81759860b2f50e5dce53ff82e911bbd3",
+ "spider": "./YSC.jar;md5;81759860b2f50e5dce53ff82e911bbd3",
 	//"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	//"lives": [{
 		    "name": "live",
@@ -9,7 +9,7 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
-	"sites":[
+"sites":[
 //{"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 //{"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./alibaba.jar"},
 //{"key":"爱奇异","name":"🚛爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
