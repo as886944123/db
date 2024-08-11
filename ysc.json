@@ -48,7 +48,7 @@
 //{"key":"子子影视","name":"🚛子子┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/zizi.json"},
 //{"key":"荐片","name":"🚛荐片┃秒播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/jianpian.js"},
 //{"key":"酷云77","name":"🚛酷云┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"厂长","name":"厂长┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/changzhang.json"},
+{"key":"厂长","name":"厂长┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./db/blob/main/SUB/changzhang.json"},
 {"key": "鸿运当头", "name": "🚛鸿运┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
 {"key":"低端影视","name":"🚛低端┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/diduan.json"},
 {"key":"在线之家","name":"🚛外剧┃秒播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/zaixian.js"},
