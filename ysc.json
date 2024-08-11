@@ -1,5 +1,5 @@
 {
-	"spider": "./YSC.jar;md5;81759860b2f50e5dce53ff82e911bbd3",
+	"spider": "./db/blob/main/YSC.jar;md5;81759860b2f50e5dce53ff82e911bbd3",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
